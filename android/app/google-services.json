@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313391745502",
+    "project_id": "messagex-7ad9f",
+    "storage_bucket": "messagex-7ad9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313391745502:android:de1c3a08bfa5c63b27b54f",
+        "android_client_info": {
+          "package_name": "com.example.messagex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzo1iDPy7LLCUzK7U8Mq_dyXgNVDB8B58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
